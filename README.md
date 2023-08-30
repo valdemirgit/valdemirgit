@@ -8,7 +8,7 @@
 
 
 ## Tecnologias que eu uso no meu dia
-![valdemirgit GitHub stats](https://github-readme-stats.vercel.app/api?username=valdemirgit&show_icons=true&theme=dracula&count_private=true)
+
 
 
 <div style="display: inline_block">
