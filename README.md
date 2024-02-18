@@ -1,7 +1,7 @@
 ## Seja bem vidno(a)!
 ## Olá! meu nome é  Valdemir alves de Oliveira  🖐️
 
-### Atualmente estou investindo front end python framework na linguagem Pytho,Porém as Linguagens de Programação que mais utilizando no momento : C#,C++ para Arduíno, Raspberry, esp32.
+### Atualmente estou investindo front end python framework na linguagem Python,Porém as Linguagens de Programação que mais utilizando no momento : C#,C++ para Arduíno, Raspberry, esp32.
 ## Rede Sosial
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)]()
 [![whatsapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)]()
