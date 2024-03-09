@@ -2,6 +2,10 @@
 
  Seja bem vidno(a)!
 ## Olá  🖐️! meu nome é  Valdemir alves de Oliveira 
+
+##Formação em:
+- Bacharelado em Engenharia da Computação
+- Pós-Graduado em Desenvolvimeto de Software com Prática DEVOPS
    
 – Atualmente realiza atendimento exclusivo para a infraestrutura de TI da Câmara dos Deputados pela empresa Digisystem,realiza atendimento  tanto da parte de cabeamento estruturado incluindo montagens de Rack para servidores, instalações e configuração de sistemas operacionais, gerenciamento de redes e serviços de backup,opera “softwares” gerenciadores e monitoração do ambiente de infraestrutura de TI.
                    
