@@ -3,7 +3,7 @@
  Seja bem vidno(a)!
 ## Olá  🖐️! meu nome é  Valdemir alves de Oliveira 
 
-##Formação em:
+- sou formado em:
 - Bacharelado em Engenharia da Computação
 - Pós-Graduado em Desenvolvimeto de Software com Prática DEVOPS
    
