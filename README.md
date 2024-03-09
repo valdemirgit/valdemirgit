@@ -1,8 +1,18 @@
-## Seja bem vidno(a)!
-## Olá! meu nome é  Valdemir alves de Oliveira  🖐️
 
-### Atualmente estou investindo front end python framework na linguagem Python,Porém as linguagens de programação que mais utilizando no momento são : C#,C++ para Arduíno, Raspberry, esp32.
-## Rede Sosial
+
+ Seja bem vidno(a)!
+## Olá  🖐️! meu nome é  Valdemir alves de Oliveira 
+   
+– Atualmente realiza atendimento exclusivo para a infraestrutura de TI da Câmara dos Deputados pela empresa Digisystem,realiza atendimento  tanto da parte de cabeamento estruturado incluindo montagens de Rack para servidores, instalações e configuração de sistemas operacionais, gerenciamento de redes e serviços de backup,opera “softwares” gerenciadores e monitoração do ambiente de infraestrutura de TI.
+                   
+– Foco em Inteligencia Artificial, Desenvolvimento Web, criação de aplicativos Mobile e se torna Desenvolvedor Full stack 
+
+– Atualmente estou investindo front end python framework na linguagem Python,Porém as linguagens de programação que mais utilizando no momento são : 
+   C#,C++ para Arduíno, Raspberry, esp32 e agora python flask.
+
+
+
+## Rede Sosial 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)]()
 [![whatsapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)]()
 
