@@ -1,51 +1,54 @@
-# Olá, eu sou o Valdemir Alves 🖐️
+# Olá, eu sou o Valdemir Alves! 🚀
 
-Engenheiro da Computação e Especialista em Infraestrutura de TI. Atualmente, unindo uma sólida bagagem de infraestrutura tradicional (On-Premises, Redes e Linux) com as práticas modernas de **Cloud, DevOps e GitOps**.
+<p align="left">
+  <img src="https://shields.io" alt="Status">
+</p>
 
-### 🎓 Formação & Especializações
-- **Bacharelado em Engenharia da Computação**
-- **Pós-Graduação em Desenvolvimento de Software com Práticas DevOps**
-
-### 💼 Atuação Profissional Atual
-Atuo no atendimento exclusivo para a infraestrutura de TI da **Câmara dos Deputados** (pela Digisystem). Responsável por:
-- Administração, configuração e sustentação de sistemas operacionais **Linux (Debian, Ubuntu, CentOS)**.
-- Gerenciamento de redes corporativas, roteamento e segurança física/lógica.
-- Administração de ambientes virtualizados de alta disponibilidade com **Proxmox VE**.
-- Gestão de rotinas de backup, monitoramento de ativos e troubleshooting de infraestrutura crítica.
+Sou **Engenheiro da Computação** especialista em infraestrutura de TI de missão crítica. Atualmente, estou aplicando minha sólida bagagem em redes, servidores e sistemas operacionais na modernização de ambientes utilizando a cultura **DevOps, Cloud (AWS) e Engenharia de Plataformas**.
 
 ---
 
-### 🛠️ Tecnologias e Ferramentas
+### 🎓 Formação & Certificações
+* 🎓 **Bacharelado em Engenharia da Computação**
+* 📜 **Pós-Graduação em Desenvolvimento de Software com Práticas DevOps**
 
-#### ☁️ Cloud & DevOps (Foco Atual & Estudos Diários)
-<div style="display: inline_block">
-  <img align="center" alt="AWS" src="https://shields.io" />
-  <img align="center" alt="Kubernetes" src="https://shields.io" />
-  <img align="center" alt="Docker" src="https://shields.io" />
-  <img align="center" alt="Terraform" src="https://shields.io" />
-  <img align="center" alt="ArgoCD" src="https://shields.io" />
-  <img align="center" alt="Jenkins" src="https://shields.io" />
-</div>
-
-#### 🐧 Sistemas Operacionais & Virtualização
-<div style="display: inline_block">
-  <img align="center" alt="Proxmox" src="https://shields.io" />
-  <img align="center" alt="Ubuntu" src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" />
-  <img align="center" alt="Debian" src="https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white" />
-  <img align="center" alt="CentOS" src="https://shields.io" />
-  <img align="center" alt="Kali Linux" src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white" />
-</div>
-
-#### 💻 Desenvolvimento & Scripting
-<div style="display: inline_block">
-  <img align="center" alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img align="center" alt="Flask" src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
-  <img align="center" alt="Bash" src="https://shields.io" />
-  <img align="center" alt="C#" src="https://shields.io" />
-</div>
+### 💼 Atuação Profissional
+Atuo no atendimento exclusivo para a infraestrutura de TI da **Câmara dos Deputados** (via Digisystem), sendo responsável por:
+* 🛠️ **Virtualização:** Administração de ambientes de alta disponibilidade baseados em **Proxmox VE**.
+* 🐧 **Sistemas:** Configuração, hardening e manutenção de servidores **Linux (Debian, Ubuntu, CentOS)**.
+* 🌐 **Redes & Segurança:** Gerenciamento de redes corporativas, conectividade, ativos e rotinas críticas de backup.
 
 ---
 
-### 🌐 Redes Sociais & Contato
-[![LinkedIn](https://shields.io)](INSIRA_LINK_DO_SEU_LINKEDIN_AQUI)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](INSIRA_LINK_DO_SEU_WHATSAPP_AQUI)
+### 🛠️ Stack Tecnológica & Ecossistema
+
+Aqui estão as tecnologias que opero no dia a dia e as ferramentas de Cloud/DevOps que implemento em meus ambientes de laboratório avançado:
+
+
+| Categoria | Tecnologias e Ferramentas |
+| :--- | :--- |
+| **Cloud & GitOps** | <img src="https://shields.io" alt="AWS"> <img src="https://shields.io" alt="K8s"> <img src="https://shields.io" alt="Docker"> <img src="https://shields.io" alt="Terraform"> <img src="https://shields.io" alt="ArgoCD"> <img src="https://shields.io" alt="Jenkins"> |
+| **Infra & Virtualização** | <img src="https://shields.io" alt="Proxmox"> <img src="https://shields.io" alt="Ubuntu"> <img src="https://shields.io" alt="Debian"> <img src="https://shields.io" alt="CentOS"> <img src="https://shields.io" alt="Kali"> |
+| **Automação & Código** | <img src="https://shields.io" alt="Python"> <img src="https://shields.io" alt="Flask"> <img src="https://shields.io" alt="Bash"> <img src="https://shields.io" alt="C#"> |
+
+---
+
+### 📈 Estatísticas do GitHub
+
+<p align="left">
+  <img height="180em" src="https://vercel.app" alt="Estatísticas do GitHub"/>
+  <img height="180em" src="https://vercel.app" alt="Linguagens mais usadas"/>
+</p>
+
+---
+
+### 🌐 Vamos nos conectar?
+
+<p align="left">
+  <a href="INSIRA_LINK_DO_SEU_LINKEDIN_AQUI" target="_blank">
+    <img src="https://shields.io" alt="LinkedIn">
+  </a>
+  <a href="INSIRA_LINK_DO_SEU_WHATSAPP_AQUI" target="_blank">
+    <img src="https://shields.io" alt="WhatsApp">
+  </a>
+</p>
